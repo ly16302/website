@@ -19,4 +19,4 @@ Previously, I have worked at the Department of Earth Science and Engineering  at
 
 ---------------------------------------------------
 ## Affiliations
-<br/><img width="15%" src='/images/cranfield_logo.jpeg'>
+<br/><img width="15%" src='/images/cranfield_logo.png'>
