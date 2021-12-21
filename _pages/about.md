@@ -12,7 +12,7 @@ I am the Lecturer in Marine Renewable Energy Systems at [Cranfield University](h
  1. Multiphase fluid-structure interaction
  2. Wave tank testing
  3. Fluid-radiation coupling problem
- 4. Mesh generation
+ 4. Mesh generation and finite element analysis
 
 
 Previously, I have worked at the Department of Earth Science and Engineering  at [Imperial College London](https://www.imperial.ac.uk).
