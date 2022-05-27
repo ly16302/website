@@ -1,5 +1,5 @@
 ---
-title: "A pseudo-compressible variational multiscale solver for turbulent incompressible flows"
+title: "A pseudo-compressible variational multiscale solver for turbulent incompressible  flows"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2016-10-13
