@@ -1,5 +1,5 @@
 ---
-title: "One-fluid formulation for fluid-structure interaction"
+title: "Generalised 'one-fluid' formulation for multiphase fluid-structure interaction"
 excerpt:
 collection: research
 ---
