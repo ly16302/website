@@ -11,6 +11,12 @@ main:
     
   - title: "Research"
     url: /research/
+
+  - title: "Code"
+    url: /code/
+
+  - title: "Wave tank"
+    url: /lab/
         
   - title: "Blog Posts"
     url: /year-archive/
