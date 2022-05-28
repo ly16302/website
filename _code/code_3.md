@@ -1,5 +1,4 @@
 ---
-title: "In-house Stabilised Finite Element: PyEFEM"
+title: "Massive parallel stabilised Finite Element: PyEFEM"
 collection: code
 ---
-Numerical simulations of complex problems, such as turbulent flows, which demand fine spatial and temporal resolutions, require often impractical (or unavailable) computing resources. Current trends in supercomputing include the reduction of the cost of memory per core, achieving better computational performance and portability of the software, including on GPUs. For example, the explicit variational multiscale method (EVMS) is a promising algorithm for solving the incompressible, turbulent flow problems, with reduced memory costs. Implementing EVMS, PyEFEM is a Python based framework for solving flow problems using matrix-free stabilised finite element, which is capable of simulating large scale flow problem involved 10 billion unknowns on HPC. It is designed for massively-parallel multi-platform and its applications include: aerodynamics; biological flow, aeroacoustics, porous media flow, environmental flow and haemodynamics. 
