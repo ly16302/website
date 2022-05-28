@@ -248,7 +248,7 @@ defaults:
   # _code
   - scope:
       path: ""
-      type: pages
+      type: code
     values:
       layout: single
       author_profile: true
