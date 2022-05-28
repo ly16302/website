@@ -248,7 +248,7 @@ defaults:
   # _lab
   - scope:
       path: ""
-      type: lab
+      type: pages
     values:
       layout: single
       author_profile: true
