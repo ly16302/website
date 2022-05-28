@@ -1,5 +1,5 @@
 ---
-title: "Inactivation rates for airborne human coronavirus by low doses of 222 nm far-UVC radiation"
+title: "An explicit stabilised finite element method for Navier-Stokes-Brinkman equations"
 collection: publications
 permalink: /publication/2022-02-paper-number-17.md
 date: 2022-02-25
