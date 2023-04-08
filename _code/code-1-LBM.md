@@ -1,5 +1,5 @@
 ---
-title: "Open Source Lattice Boltzmann Code • Taichi_LBM3D"
+title: "Taichi-LBM3D: Open Source Lattice Boltzmann Code"
 collection: code
 permalink: /code/code-1-LBM
 ---
