@@ -11,9 +11,9 @@ title                    : "Liang Yang"
 title_separator          : "-"
 name                     : &name "Liang Yang"
 description              : &description "personal description"
-url                      : https://ly16302.github.io/website/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yangliang.co.uk/ #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ly16302.github.io/website/"
+repository               : 
 teaser                   : cranfield_logo.png # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liang Yang"
   avatar           : "profile.png"
-  bio              : "Lecturer in Marine Renewable Energy Systems, Centre for Renewable Energy Systems"
+  bio              : "Lecturer in Marine Renewable Energy Systems"
   location         : "Cranfield, Bedford"
   employer         :  
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TVRrYlcGOpYC"
